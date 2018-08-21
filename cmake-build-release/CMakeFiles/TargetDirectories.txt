@@ -1,3 +1,0 @@
-C:/tasks/calculator/cmake-build-release/CMakeFiles/rebuild_cache.dir
-C:/tasks/calculator/cmake-build-release/CMakeFiles/calculator.dir
-C:/tasks/calculator/cmake-build-release/CMakeFiles/edit_cache.dir
